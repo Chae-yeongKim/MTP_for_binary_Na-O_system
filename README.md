@@ -1,5 +1,6 @@
 # MTP for binary Na-O system 
-We developed the machine learning interatomic potnetials using MLIP pacakge (a software developed by the group of A. Shappeev from Skoltech) The MLIP package is availble at DOI 10.1088/2632-2153/abc9fe. 
+We developed machine learning interatomic potentials using the MLIP package, which is a software developed by the group of A. Shappeev from Skoltech. 
+The MLIP package is availble at DOI 10.1088/2632-2153/abc9fe. 
 
 ## Implemation of the 2B correction in LAMMPS package
 Before implementing the MTP with 2B corrections, LAMMPS-MLIP interface developed by the group of A. Shappeev from Skoltech must be installed.
