@@ -1,1 +1,1 @@
-# MTP_for_binary_Na-O_system
+# MTP for binary Na-O system 
