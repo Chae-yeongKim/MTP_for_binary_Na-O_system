@@ -1,0 +1,14 @@
+pair_style hybrid/overlay table linear 1000  mlip /path/to/the/folder/of/mlip.ini
+pair_coeff 2 2  table /path/to/the/folder/of/2b_002.table TABLE_2B 6.0
+
+pair_coeff * *   mlip /path/to/the/folder/of/mlip.ini
+
+group Na type 1
+group O  type 2
+
+group 1 type 1
+group 2 type 2
+
+mass 1 23.000
+mass 2 16.000
+
